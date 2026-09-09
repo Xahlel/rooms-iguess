@@ -1,4 +1,3 @@
--- ChaosDev Final Version: Draggable HUD, Hold LeftAlt Mouse Unlock & Self-Test (Roblox Lua)
 
 pcall(function()
     local Players = game:GetService("Players")
